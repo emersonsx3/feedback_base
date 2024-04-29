@@ -13,7 +13,7 @@
     --orange: #fc7614;
     --white: #fff;
     --very-dark-blue: #131518;
-    --black-grandien: radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181e27 100%);
+    --black-grandient: radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181e27 100%);
 }
 
 body {
@@ -25,7 +25,7 @@ body {
 }
 
 .card{
-    background: var(--black-grandien);
+    background: var(--black-grandient);
     max-width: 412px;
     padding: 32px;
     border-radius: 30px;
